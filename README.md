@@ -15,6 +15,27 @@ Para executar o jogo, você precisará de:
 
 ## ⚙️ **Como Executar**
 
-1. **Clone o repositório**:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
+"Clone o repositório:"
+    - "```bash"
+    - "git clone <URL_DO_REPOSITORIO>"
+    - "```"
+    - "Navegue até a pasta do projeto:"
+    - "```bash"
+    - "cd SnakeGame"
+    - "```"
+    - "Compile o código:"
+    - "```bash"
+    - "gcc snake.c -o snake"
+    - "```"
+    - "Execute o jogo:"
+    - "```bash"
+    - "./snake"
+    - "```"
+
+  controls:
+    - "w: Cima"
+    - "⬇s: Baixo"
+    - "⬅a: Esquerda"
+    - "➡d: Direita"
+    - "Esc: Encerra o jogo"
+
